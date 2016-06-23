@@ -5,4 +5,3 @@ Forked this project, to write step by step guidance of setting up Docker Trusted
 
 Making a minor change to test build trigger.
 
-TEST LINE..
